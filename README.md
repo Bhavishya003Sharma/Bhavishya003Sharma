@@ -48,10 +48,9 @@ Features: Member management, trainer management, attendance tracking, custom ID 
 
 ## 📊 GitHub Stats
 
-![Bhavishya's GitHub Stats](https://github-readme-stats.vercel.app/api?username=Bhavishya003Sharma&show_icons=true&theme=dark)
+![GitHub Streak](https://streak-stats.demolab.com?user=Bhavishya003Sharma&theme=dark&hide_border=true)
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Bhavishya003Sharma&layout=compact&theme=dark)
-
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Bhavishya003Sharma&layout=compact&theme=dark&hide_border=true&cache_seconds=1800)
 ---
 
 ## 🤝 Connect with me
