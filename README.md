@@ -50,9 +50,6 @@ Features: Member management, trainer management, attendance tracking, custom ID 
 
 ![GitHub Streak](https://streak-stats.demolab.com?user=Bhavishya003Sharma&theme=dark&hide_border=true)
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Bhavishya003Sharma&layout=compact&theme=dark&hide_border=true&cache_seconds=1800)
----
-
 ## 🤝 Connect with me
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=flat&logo=linkedin&logoColor=white)](https://linkedin.com/in/bhavishyasharma003)
